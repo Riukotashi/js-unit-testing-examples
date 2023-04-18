@@ -1,4 +1,4 @@
-zame: Tests
+name: Tests
 on: push
 
 jobs:
