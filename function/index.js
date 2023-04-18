@@ -1,4 +1,4 @@
 require('babel-register');
 
-var server = require('./src/launch');
+var server = require('../src/launch');
 server.start();
